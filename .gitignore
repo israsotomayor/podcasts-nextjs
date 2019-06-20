@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.next
+*.log
+.vscode
+*.retry
+# production
+/build
+/deploy/roles/katarilabs/files/build/*
